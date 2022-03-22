@@ -5,7 +5,7 @@ module.exports = {
   skipContracts: [""],
   skipTests: [""],
   contractsGlob: "/**/*.sol",
-  testsGlob: "/**/*.{js,sol}",
+  testsGlob: "/**/*.{js,ts,sol}",
   resumeDir: "",
   onlySelection: true,
   previousMatrixPath: "",
